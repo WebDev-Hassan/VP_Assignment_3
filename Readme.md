@@ -18,7 +18,7 @@ It requires the following functionalities
 - Add more integrations
 
 
-## Screenshots
+## 📸 Screenshots
 
 [![Screenshot](https://i.postimg.cc/3xkSdkVq/Capture.png)](https://postimg.cc/v4dLKZQ7)
 
