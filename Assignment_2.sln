@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_3", "Assignment_2\Assignment_3.csproj", "{767CC037-FE5B-4AC1-B1BE-EED01C295AC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation Layer", "Assignment_2\Presentation Layer.csproj", "{767CC037-FE5B-4AC1-B1BE-EED01C295AC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Layer", "Business Layer\Business Layer.csproj", "{EF9DEEC6-7504-458F-B9FC-534BEC26A189}"
 EndProject
