@@ -60,9 +60,7 @@ namespace Assignment_2
 
         private void btn_Reset_Click(object sender, EventArgs e)
         {
-            // Setting Default Values
             SetDefaults();
-            // Enabling Fields
             EnableFields();
         }
 
@@ -117,7 +115,7 @@ namespace Assignment_2
         {
             try
             {
-                //EnableFields();
+                EnableFields();
                 Item i = new Item();
                 i.ID = int.Parse(txt_ID.Text);
                 i.Name = txt_Name.Text.ToString();
@@ -131,6 +129,5 @@ namespace Assignment_2
                 MessageBox.Show(ex.Message.ToString());
             }
         }
-
     }
 }
